@@ -6,6 +6,10 @@
 
 ![screenshot](src/images/todos.png)
 
+## Live Demo
+
+[Live Demo Link](https://ghiftee.github.io/react-to-do-list/)
+
 - In this project, I created a ToDo list using React by following a step-by-step tutorial by [Ibaslogic](https://ibaslogic.com/react-tutorial-for-beginners/)
 
 ## Built With
