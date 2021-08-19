@@ -2,7 +2,7 @@
 
 # React Tutorial - ToDos List
 
-> This project is a ToDo list ap built using React
+> This project is a ToDo list app built using React
 
 ![screenshot](src/images/todos.png)
 
